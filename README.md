@@ -23,3 +23,32 @@ Performance Enhancements
 Feel free to connect with me at 📧 kbeg461@gmail.com or check out my 📧 [LinkedIn](https://www.linkedin.com/in/kaif-beg-49186b281)
 
 
+
+# Hi there 👋
+I’m Kaif, a committed Software Development Engineer in Test (SDET) based in Tilhar, Shahjahanpur, Uttar Pradesh.
+
+## My Tech Stack
+- Python
+- JavaScript
+- Selenium
+- Cypress
+- Git
+
+## Core Competencies
+- Manual Testing
+- Automation Testing
+- API Testing
+- Performance Testing
+
+## Projects
+- **Adidas Demo Website Testing:** Conducted exploratory testing on the Adidas demo website, developing test scenarios and test cases.
+
+## Certifications
+- [Certified Software Tester](https://example.com/certification) (Add your actual certification here)
+
+## Future Goals
+- To enhance my automation skills in Cypress and Selenium.
+- To learn advanced security testing techniques.
+
+
+
