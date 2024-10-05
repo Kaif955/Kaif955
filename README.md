@@ -1,5 +1,6 @@
 ## 👋 Hello!
-I’m Kaif Beg, a passionate Software Development Engineer in Test (SDET) from Tilhar, Shahjahanpur, Uttar Pradesh. Currently, I’m enhancing my skills at Masai School, focusing on delivering exceptional software quality through rigorous testing practices.
+## I’m Kaif Beg,
+A passionate Software Development Engineer in Test (SDET) from Tilhar, Shahjahanpur, Uttar Pradesh. Currently, I’m enhancing my skills at Masai School, focusing on delivering exceptional software quality through rigorous testing practices.
 
 ## 🔧 Recent Work:
 I have successfully completed a manual testing project on the Adidas demo website, where I performed thorough exploratory testing to ensure the website’s functionality and improve the overall user experience.
