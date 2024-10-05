@@ -24,6 +24,8 @@ Feel free to connect with me at 📧 kbeg461@gmail.com or check out my 📧 [Lin
 
 
 
+
+
 ## 🛠️ My Tech Stack
 
 | **Category**             | **Tools & Technologies**                                                                            |
@@ -32,6 +34,8 @@ Feel free to connect with me at 📧 kbeg461@gmail.com or check out my 📧 [Lin
 
 
 ---
+
+
 
 ## 🌟 Core Competencies
 
@@ -43,24 +47,25 @@ Feel free to connect with me at 📧 kbeg461@gmail.com or check out my 📧 [Lin
 
 ---
 
+
+
 ## 🚀 Projects
 
 ### **Manual Testing for Adidas Demo Website**
 - Conducted detailed **Exploratory Testing** on the **Adidas Demo Website**, covering multiple features like user registration, product search, and checkout process.
 - Designed a comprehensive **Test Plan**, including **Test Scenarios** and **Test Cases** based on hands-on feature exploration.
 - **Key Achievements:** Identified critical usability and navigation bugs, improving the overall user experience of the demo website.
-
-### **Exploratory Testing for Flipkart**
-- Created a detailed test plan and executed multiple test cases to ensure a seamless shopping experience on the **Flipkart** platform.
-- **Key Achievements:** Discovered issues in the checkout flow, which were reported and resolved to improve customer satisfaction.
-
 ---
+
+
 
 ## 🔮 Future Goals
 
 As I have now completed my journey in **Manual Testing**, I am excited to dive into **Automation Testing** with tools like **Selenium** and **Cypress**. My goal is to build robust automated frameworks for web and mobile applications in the near future.
 
 ---
+
+
 
 ## 🤝 Let's Connect
 
