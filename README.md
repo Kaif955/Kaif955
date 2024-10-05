@@ -51,7 +51,7 @@ Feel free to connect with me at 📧 kbeg461@gmail.com or check out my 📧 [Lin
 
 ## 🚀 Projects
 
-### **Manual Testing for Adidas Demo Website**
+### **[Adidas Clone Website Manual Testing](https://github.com/Kaif955/Adidas-Clone-Website-Manual-Testing-)**
 - Conducted detailed **Exploratory Testing** on the **Adidas Demo Website**, covering multiple features like user registration, product search, and checkout process.
 - Designed a comprehensive **Test Plan**, including **Test Scenarios** and **Test Cases** based on hands-on feature exploration.
 - **Key Achievements:** Identified critical usability and navigation bugs, improving the overall user experience of the demo website.
