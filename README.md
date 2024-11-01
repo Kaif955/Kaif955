@@ -14,6 +14,8 @@ Now, I am shifting my focus towards automation testing, where I aim to work with
 ---
 
 ## 📚 Learning Journey:
+Manual testing
+Automation: cypress with javascript and selenium with java.
 Basic security testing techniques
 Effective CI/CD integration
 Strategies for performance optimization
