@@ -41,7 +41,7 @@ Performance Enhancements
 ![CSS](https://badgen.net/badge/CSS/1572B6?color=flat&labelColor=white&scale=10)
 ![HTML](https://badgen.net/badge/HTML/E34F26?color=flat&labelColor=white&scale=10)
 ![MS Excel](https://badgen.net/badge/MS_Excel/217346?color=flat&labelColor=white&scale=10)
---
+
 ### Tools:
 ![Manual Testing](https://badgen.net/badge/Manual_Testing/FFA500?color=flat&scale=10)
 ![Selenium](https://badgen.net/badge/Selenium/FFF200?color=flat&labelColor=black&scale=10)
@@ -52,9 +52,6 @@ Performance Enhancements
 ![GitHub](https://badgen.net/badge/GitHub/181717?color=flat&labelColor=white&scale=10)
 ![RestAssured](https://badgen.net/badge/RestAssured/2C6B1F?color=flat&labelColor=white&scale=10)
 ![Postman](https://badgen.net/badge/Postman/FF6C37?color=flat&labelColor=white&scale=10)
-
---
-
 
 ---
 
