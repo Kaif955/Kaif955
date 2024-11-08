@@ -35,26 +35,42 @@ Performance Enhancements
 
 ## 🛠️ My Tech Stack
 
+### Manual Testing:
+![Manual Testing](https://badgen.net/badge/Manual_Testing/FFA500?color=flat&labelColor=white&scale=5)
+![Exploratory Testing](https://badgen.net/badge/Exploratory_Testing/8E44AD?color=flat&labelColor=white&scale=5)
+![Smoke Testing](https://badgen.net/badge/Smoke_Testing/FF9900?color=flat&labelColor=white&scale=5)
+![Regression Testing](https://badgen.net/badge/Regression_Testing/3E8E41?color=flat&labelColor=white&scale=5)
+![Acceptance Testing](https://badgen.net/badge/Acceptance_Testing/2ECC71?color=flat&labelColor=white&scale=5)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+
+
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFE600?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
---
-### Tools:
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-FFA500?style=flat)
-![Selenium](https://img.shields.io/badge/Selenium-FFF200?style=flat&logo=selenium&logoColor=black)
+
+### Automation Testing:
 ![Cypress](https://img.shields.io/badge/Cypress-061A35?style=flat&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-FFF200?style=flat&logo=selenium&logoColor=black)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-6DB33F?style=flat&logo=cucumber&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-DC3C24?style=flat&logo=testng&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+
+### API Testing Tools:
 ![RestAssured](https://img.shields.io/badge/RestAssured-2C6B1F?style=flat&logo=rest-assured&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
---
+
+### Methodologies:
+![Agile](https://badgen.net/badge/Agile/3EAA5C?color=flat&labelColor=white&scale=5)
+![TDD](https://badgen.net/badge/TDD/FFB300?color=flat&labelColor=white&scale=5)
+![BDD](https://badgen.net/badge/BDD/5C6BC0?color=flat&labelColor=white&scale=5)
+![POM](https://badgen.net/badge/POM/FF6347?color=flat&labelColor=white&scale=5)
+
+
 
 ---
 
