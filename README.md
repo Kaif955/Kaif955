@@ -36,22 +36,23 @@ Performance Enhancements
 ## 🛠️ My Tech Stack
 
 ### Languages:
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE600?style=flat&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Java](https://badgen.net/badge/Java/007396?color=flat&labelColor=white&scale=10)
+![JavaScript](https://badgen.net/badge/JavaScript/FFE600?color=flat&labelColor=black&scale=10)
+![CSS](https://badgen.net/badge/CSS/1572B6?color=flat&labelColor=white&scale=10)
+![HTML](https://badgen.net/badge/HTML/E34F26?color=flat&labelColor=white&scale=10)
+![MS Excel](https://badgen.net/badge/MS_Excel/217346?color=flat&labelColor=white&scale=10)
 --
 ### Tools:
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-FFA500?style=flat)
-![Selenium](https://img.shields.io/badge/Selenium-FFF200?style=flat&logo=selenium&logoColor=black)
-![Cypress](https://img.shields.io/badge/Cypress-061A35?style=flat&logo=cypress&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-6DB33F?style=flat&logo=cucumber&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-DC3C24?style=flat&logo=testng&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![RestAssured](https://img.shields.io/badge/RestAssured-2C6B1F?style=flat&logo=rest-assured&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Manual Testing](https://badgen.net/badge/Manual_Testing/FFA500?color=flat&scale=10)
+![Selenium](https://badgen.net/badge/Selenium/FFF200?color=flat&labelColor=black&scale=10)
+![Cypress](https://badgen.net/badge/Cypress/061A35?color=flat&labelColor=white&scale=10)
+![JIRA](https://badgen.net/badge/JIRA/0052CC?color=flat&labelColor=white&scale=10)
+![Cucumber](https://badgen.net/badge/Cucumber/6DB33F?color=flat&labelColor=white&scale=10)
+![TestNG](https://badgen.net/badge/TestNG/DC3C24?color=flat&labelColor=white&scale=10)
+![GitHub](https://badgen.net/badge/GitHub/181717?color=flat&labelColor=white&scale=10)
+![RestAssured](https://badgen.net/badge/RestAssured/2C6B1F?color=flat&labelColor=white&scale=10)
+![Postman](https://badgen.net/badge/Postman/FF6C37?color=flat&labelColor=white&scale=10)
+
 --
 
 
