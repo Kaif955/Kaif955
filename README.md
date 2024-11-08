@@ -35,6 +35,11 @@ Performance Enhancements
 
 ## 🛠️ My Tech Stack
 
+![Selenium](https://img.shields.io/badge/Selenium-FFF200?style=flat&logo=selenium&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-061A35?style=flat&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFE600?style=flat&logo=javascript&logoColor=black)
+
+
 | **Category**             | **Tools & Technologies**                                                                            |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
 | **Manual Testing**       | Test Case Design, Test Planning, Bug Reporting, Regression Testing, Exploratory Testing            |
