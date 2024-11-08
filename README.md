@@ -36,12 +36,12 @@ Performance Enhancements
 ## 🛠️ My Tech Stack
 
 ### Manual Testing:
-![Manual Testing](https://badgen.net/badge/Manual_Testing/FFA500?color=flat&labelColor=white&scale=5)
-![Exploratory Testing](https://badgen.net/badge/Exploratory_Testing/8E44AD?color=flat&labelColor=white&scale=5)
-![Smoke Testing](https://badgen.net/badge/Smoke_Testing/FF9900?color=flat&labelColor=white&scale=5)
-![Regression Testing](https://badgen.net/badge/Regression_Testing/3E8E41?color=flat&labelColor=white&scale=5)
-![Acceptance Testing](https://badgen.net/badge/Acceptance_Testing/2ECC71?color=flat&labelColor=white&scale=5)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Manual Testing](https://badgen.net/badge/Manual_Testing/FFA500?style=flat&scale=2)
+![Exploratory Testing](https://badgen.net/badge/Exploratory_Testing/8E44AD?style=flat&scale=2)
+![Smoke Testing](https://badgen.net/badge/Smoke_Testing/FF9900?style=flat&scale=2)
+![Regression Testing](https://badgen.net/badge/Regression_Testing/3E8E41?style=flat&scale=2)
+![Acceptance Testing](https://badgen.net/badge/Acceptance_Testing/2ECC71?style=flat&scale=2)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white&scale=2)
 
 
 ### Languages:
@@ -65,10 +65,10 @@ Performance Enhancements
 
 
 ### Methodologies:
-![Agile](https://badgen.net/badge/Agile/3EAA5C?color=flat&labelColor=white&scale=5)
-![TDD](https://badgen.net/badge/TDD/FFB300?color=flat&labelColor=white&scale=5)
-![BDD](https://badgen.net/badge/BDD/5C6BC0?color=flat&labelColor=white&scale=5)
-![POM](https://badgen.net/badge/POM/FF6347?color=flat&labelColor=white&scale=5)
+![Agile](https://badgen.net/badge/Agile/3EAA5C?style=flat&scale=2)
+![TDD](https://badgen.net/badge/TDD/FFB300?style=flat&scale=2)
+![BDD](https://badgen.net/badge/BDD/5C6BC0?style=flat&scale=2)
+![POM](https://badgen.net/badge/POM/FF6347?style=flat&scale=2)
 
 
 
