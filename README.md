@@ -3,8 +3,8 @@ I’m Kaif Beg, A passionate Software Development Engineer in Test (SDET) from T
 
 ---
 
-## 🔧 Recent Work:
-I have successfully completed a manual testing project on the Adidas demo website, where I performed thorough exploratory testing to ensure the website’s functionality and improve the overall user experience.
+## 🔧 Work:
+I completed a manual testing project on the Adidas demo website, performing thorough exploratory testing to ensure functionality and enhance the user experience. I am currently working on an automation project, developing and executing test scripts using Selenium and Cypress to improve testing efficiency and coverage.
 
 ---
 
@@ -25,7 +25,7 @@ Strategies for performance optimization
 ## 💬 Areas of Expertise:
 Manual Testing
 Automation Frameworks (Selenium, Cypress)
-API Testing
+API Testing (Postman, RestAssured)
 Performance Enhancements
 
 
@@ -76,13 +76,14 @@ Performance Enhancements
 
 
 
-## 🌟 Core Competencies
+## 🌟 Core Competencies:
 
-- **Manual Testing:** Skilled in creating detailed test cases, test plans, and performing exploratory testing to identify critical bugs.
-- **Exploratory Testing:** Efficient in discovering bugs through real-world feature exploration without formal test scripts.
-- **Test Planning & Execution:** Developed comprehensive test plans for various web applications to ensure functionality and usability.
-- **Bug Reporting:** Experienced in writing concise and actionable bug reports that lead to quick resolutions.
-- **Agile Collaboration:** Comfortable working in Agile/Scrum environments, closely collaborating with developers and stakeholders.
+Manual Testing: Skilled in creating detailed test cases, conducting smoke, regression, and exploratory testing, and identifying critical bugs to ensure the quality of web applications.
+Exploratory Testing: Efficient in discovering bugs through hands-on feature exploration, going beyond formal test scripts to find unexpected issues.
+Test Planning & Execution: Experienced in developing comprehensive test plans and executing them to verify the functionality, security, and usability of applications.
+Bug Reporting: Proficient in writing clear, concise, and actionable bug reports that facilitate quick and efficient resolutions.
+Agile Collaboration: Comfortable working in Agile/Scrum environments, collaborating with developers and stakeholders to ensure timely delivery and high-quality releases.
+Automation Testing: Expertise in using Selenium and Cypress for automating test scripts, improving testing efficiency, and ensuring consistent and repeatable results.
 
 ---
 
