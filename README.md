@@ -42,6 +42,7 @@ Performance Enhancements
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
+--
 ### Tools:
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-FFA500?style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-FFF200?style=flat&logo=selenium&logoColor=black)
@@ -52,6 +53,8 @@ Performance Enhancements
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-2C6B1F?style=flat&logo=rest-assured&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+--
 
 ---
 
