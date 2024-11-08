@@ -109,6 +109,7 @@ As I have now completed my journey in **Manual Testing**, I am excited to dive i
 
 ## 🤝 Let's Connect
 
-Feel free to reach out to me via email at 📧 kbeg461@gmail.com or connect with me on 🔗 LinkedIn.
+Feel free to reach out to me via email at [📧 kbeg461@gmail.com](mailto:kbeg461@gmail.com) or connect with me on [🔗 LinkedIn](https://www.linkedin.com/in/kaif-beg-49186b281).
+
 
 > "Quality is never an accident; it is always the result of intelligent effort."
