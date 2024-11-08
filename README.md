@@ -36,11 +36,11 @@ Performance Enhancements
 ## 🛠️ My Tech Stack
 
 ### Manual Testing:
-![Manual Testing](https://badgen.net/badge/Manual_Testing/FFA500?style=flat&logoColor=white)
-![Exploratory Testing](https://badgen.net/badge/Exploratory_Testing/8E44AD?style=flat&logoColor=white)
-![Smoke Testing](https://badgen.net/badge/Smoke_Testing/FF9900?style=flat&logoColor=white)
-![Regression Testing](https://badgen.net/badge/Regression_Testing/3E8E41?style=flat&logoColor=white)
-![Acceptance Testing](https://badgen.net/badge/Acceptance_Testing/2ECC71?style=flat&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-FFA500?style=flat)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-8E44AD?style=flat)
+![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-FF9900?style=flat)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-3E8E41?style=flat)
+![Acceptance Testing](https://img.shields.io/badge/Acceptance_Testing-2ECC71?style=flat)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 
 
@@ -65,11 +65,10 @@ Performance Enhancements
 
 
 ### Methodologies:
-![Agile](https://badgen.net/badge/Agile/3EAA5C?style=flat&logoColor=white)
-![TDD](https://badgen.net/badge/TDD/FFB300?style=flat&logoColor=white)
-![BDD](https://badgen.net/badge/BDD/5C6BC0?style=flat&logoColor=white)
-![POM](https://badgen.net/badge/POM/FF6347?style=flat&logoColor=white)
-
+![Agile](https://img.shields.io/badge/Agile-3EAA5C?style=flat)
+![TDD](https://img.shields.io/badge/TDD-FFB300?style=flat)
+![BDD](https://img.shields.io/badge/BDD-5C6BC0?style=flat)
+![POM](https://img.shields.io/badge/POM-FF6347?style=flat)
 
 
 
