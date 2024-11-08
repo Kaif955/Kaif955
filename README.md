@@ -1,5 +1,5 @@
 ## 👋 Hello!
-I’m Kaif Beg, A passionate Software Development Engineer in Test (SDET) from Tilhar, Shahjahanpur, Uttar Pradesh. Currently, I’m enhancing my skills at Masai School, focusing on delivering exceptional software quality through rigorous testing practices.
+I’m **Kaif Beg**, A passionate Software Development Engineer in Test (SDET) from Tilhar, Shahjahanpur, Uttar Pradesh. Currently, I’m enhancing my skills at Masai School, focusing on delivering exceptional software quality through rigorous testing practices.
 
 ---
 
@@ -78,12 +78,12 @@ Performance Enhancements
 
 ## 🌟 Core Competencies:
 
-Manual Testing: Skilled in creating detailed test cases, conducting smoke, regression, and exploratory testing, and identifying critical bugs to ensure the quality of web applications.
-Exploratory Testing: Efficient in discovering bugs through hands-on feature exploration, going beyond formal test scripts to find unexpected issues.
-Test Planning & Execution: Experienced in developing comprehensive test plans and executing them to verify the functionality, security, and usability of applications.
-Bug Reporting: Proficient in writing clear, concise, and actionable bug reports that facilitate quick and efficient resolutions.
-Agile Collaboration: Comfortable working in Agile/Scrum environments, collaborating with developers and stakeholders to ensure timely delivery and high-quality releases.
-Automation Testing: Expertise in using Selenium and Cypress for automating test scripts, improving testing efficiency, and ensuring consistent and repeatable results.
+- **Manual Testing:** Skilled in creating detailed test cases, conducting smoke, regression, and exploratory testing, and identifying critical bugs to ensure the quality of web applications.
+- **Exploratory Testing:** Efficient in discovering bugs through hands-on feature exploration, going beyond formal test scripts to find unexpected issues.
+- **Test Planning & Execution:** Experienced in developing comprehensive test plans and executing them to verify the functionality, security, and usability of applications.
+- **Bug Reporting:** Proficient in writing clear, concise, and actionable bug reports that facilitate quick and efficient resolutions.
+- **Agile Collaboration:** Comfortable working in Agile/Scrum environments, collaborating with developers and stakeholders to ensure timely delivery and high-quality releases.
+- **Automation Testing:** Expertise in using Selenium and Cypress for automating test scripts, improving testing efficiency, and ensuring consistent and repeatable results.
 
 ---
 
@@ -109,6 +109,6 @@ As I have now completed my journey in **Manual Testing**, I am excited to dive i
 
 ## 🤝 Let's Connect
 
-Feel free to reach out to me via email at [kbeg461@gmail.com](mailto:kbeg461@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kaif-beg-49186b281).
+Feel free to reach out to me via email at 📧 kbeg461@gmail.com or connect with me on 🔗 LinkedIn.
 
 > "Quality is never an accident; it is always the result of intelligent effort."
