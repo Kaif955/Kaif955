@@ -91,10 +91,20 @@ Performance Enhancements
 
 ## 🚀 Projects
 
+### **[Automation Testing Project With Cypress- Demo Web Shop](https://github.com/Kaif955/-Automation-Testing-Project-Demo-Web-Shop-Tested-with-Cypress-)**
+- Conducted detailed **Automation Testing** on the **Demo Web Shop**, focusing on core functionalities such as user login, product search, cart management, and checkout process using 
+**Cypress**.
+- Implemented the **Page Object Model (POM)** framework for creating reusable and maintainable test scripts.
+- **Key Achievements**: Validated critical user journeys, identified functional and non-functional issues, and contributed to enhancing the user experience across devices by improving UI 
+  responsiveness and load times.
+  
+
 ### **[Adidas Clone Website Manual Testing](https://github.com/Kaif955/Adidas-Clone-Website-Manual-Testing-)**
 - Conducted detailed **Exploratory Testing** on the **Adidas Demo Website**, covering multiple features like user registration, product search, and checkout process.
 - Designed a comprehensive **Test Plan**, including **Test Scenarios** and **Test Cases** based on hands-on feature exploration.
 - **Key Achievements:** Identified critical usability and navigation bugs, improving the overall user experience of the demo website.
+
+  
 ---
 
 
