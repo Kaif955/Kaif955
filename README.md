@@ -98,6 +98,7 @@ Performance Enhancements
 - **Key Achievements**: Validated critical user journeys, identified functional and non-functional issues, and contributed to enhancing the user experience across devices by improving UI 
   responsiveness and load times.
   
+  
 
 ### **[Adidas Clone Website Manual Testing](https://github.com/Kaif955/Adidas-Clone-Website-Manual-Testing-)**
 - Conducted detailed **Exploratory Testing** on the **Adidas Demo Website**, covering multiple features like user registration, product search, and checkout process.
@@ -108,12 +109,11 @@ Performance Enhancements
 ---
 
 
-
 ## 🔮 Future Goals
 
 As I have now completed my journey in **Manual Testing**, I am excited to dive into **Automation Testing** with tools like **Selenium** and **Cypress**. My goal is to build robust automated frameworks for web and mobile applications in the near future.
 
----
+
 ---
 
 
