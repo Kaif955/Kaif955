@@ -4,13 +4,13 @@
 # Welcome to my GitHub Profile! 🚀
 
 ---
-# About Me
+## 💻 About Me
 
 I’m a passionate **Software Development Engineer in Test (SDET)** from **Tilhar, Shahjahanpur, Uttar Pradesh**. Currently, I’m honing my skills at **Masai School**, focusing on delivering exceptional software quality through **rigorous testing practices**.
 
 ---
 
-## My Resume
+## 📄 My Resume
 
 [View My Resume](https://drive.google.com/file/d/1sfrfZXMPWHIdFCMTK2WD45z16w18NZcy/view?usp=sharing)
 
