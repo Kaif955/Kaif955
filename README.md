@@ -12,7 +12,7 @@ I’m a passionate **Software Development Engineer in Test (SDET)** from **Tilha
 
 ## 📄 My Resume
 
-[View My Resume](https://drive.google.com/file/d/1sfrfZXMPWHIdFCMTK2WD45z16w18NZcy/view?usp=sharing)
+[View My Resume](https://drive.google.com/file/d/1_DUzwnqcHZh0WiSa0HXWa1C-gx61W2R5/view?usp=sharing)
 
 ---
 
